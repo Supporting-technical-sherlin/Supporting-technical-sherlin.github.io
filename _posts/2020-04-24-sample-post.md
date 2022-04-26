@@ -1,7 +1,7 @@
 ---
 title: Sample Post
 layout: post
-post-image: "https://dconfianza.pe/blog/wp-content/uploads/2020/09/Software-de-Mantenimiento-CMMS-1024x536.jpg
+post-image: "https://dconfianza.pe/blog/wp-content/uploads/2020/09/Software-de-Mantenimiento-CMMS-1024x536.jpg"
 "
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
