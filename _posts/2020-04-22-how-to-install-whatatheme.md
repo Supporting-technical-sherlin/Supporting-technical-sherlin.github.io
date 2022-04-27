@@ -4,34 +4,26 @@ layout: post
 post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
 
 ¿Qué es el soporte a distancia?
+
 En ADC Net brindamos soporte técnico a través de una conexión remota mediante internet para brindarle asistencia técnica cuando sus equipos informáticos presentan alguna falla que no requiere visita presencial el manejo de datos y conversaciones realizados por este medio es confidencial y se realiza a través de conexiones seguras. El sistema asegura, mediante la autentificación en dos pasos, que únicamente los técnicos que realizan la asistencia, estén autorizados para acceder remotamente a los dispositivos de su empresa, como equipos de confian
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+¿Cómo se realiza el soporte técnico a distancia?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Se puede realizar en cualquier parte del mundo, a equipos que cuenten con una conexión a internet estable. Utilizamos un aplicativo multiplataforma, por lo que funciona en diversos sistemas operativos como Windows y Linux
 
----
+El acceso remoto permite controlar el equipo de destino desde cualquier ubicación como si estuviera físicamente en el mismo sitio.
+El aplicativo no tiene costo adicional para el cliente. Solo abona el servicio técnico pero no debe comprar software para el acceso remoto.
+Permite la resolución de problemas informáticos más rápido y de forma eficiente
+Es el mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde un técnico soluciona los problemas que presenta el servidor, la pc o notebook
+Una de las grandes ventajas del soporte técnico a distancia es que el mantenimiento remoto no requiere de traslados por lo que evita demoras y reduce significativamente los costos para el cliente
+En los mantenimientos preventivos realizados con frecuencia mensual, se pueden detectar fallas antes de que ocurran y solucionarlas de forma anticipada
 
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes
+###¿Qué es el mantenimiento a distancia?
 
-### Home Page -
-* A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.
-* An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.
-* A Contact section - A section where you can include 3 direct ways to contact<br>
-`Ping on Messenger`<br>
-`Send an Email`<br>
-`Tweet on Twitter`<br>
-The contact section will also include 10 different social media buttons for your audience to follow.<br>
-`Facebook`, `Twitter`, `Instagram`, `LinkedIn`, `GitHub`, `YouTube`, `Reddit`, `Behance`, `Dribbble` & `Spotify`.
+Es el mantenimiento de equipos que puede realizarse a través de internet, de forma remota y segura, donde un técnico soluciona los problemas que presenta el servidor, la pc o notebook.
+Una de las grandes ventajas del soporte técnico a distancia es que el mantenimiento remoto no requiere de traslados por lo que evita demoras y reduce significativamente los costos para el cliente.
+En los mantenimientos preventivos realizados con frecuencia mensual, se pueden detectar fallas antes de que ocurran y solucionarlas de forma anticipada.
 
-### Blog -
-The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description & content of your post and shows the result as soon as you type.<br>
-The blog card includes
-* Post Title
-* 300 words from the content of the post
-* The publish date
-* The time which will be required to read the post.
 
 ### Projects -
 The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
