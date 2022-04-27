@@ -1,7 +1,7 @@
 ---
 title:Mantenimiento A Distancia 
 layout: post
-post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
+post-image: https://www.dataware.com.mx/img/soporte/banner-soporte.jpg
 
 ¿Qué es el soporte a distancia?
 
