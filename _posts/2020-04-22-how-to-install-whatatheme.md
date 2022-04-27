@@ -1,14 +1,10 @@
 ---
-title: How to Install and use WhatATheme?
+title:Mantenimiento A Distancia 
 layout: post
 post-image: https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/How%20to%20install%20and%20use%20WhatATheme.png?token=AHMQUEPHRKQFL5FS624RDJ26Z64HK
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
-tags:
-- how to
-- setup
-- theme
----
+
+¿Qué es el soporte a distancia?
+En ADC Net brindamos soporte técnico a través de una conexión remota mediante internet para brindarle asistencia técnica cuando sus equipos informáticos presentan alguna falla que no requiere visita presencial el manejo de datos y conversaciones realizados por este medio es confidencial y se realiza a través de conexiones seguras. El sistema asegura, mediante la autentificación en dos pasos, que únicamente los técnicos que realizan la asistencia, estén autorizados para acceder remotamente a los dispositivos de su empresa, como equipos de confian
 
 # What is WhatATheme?
 >You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
