@@ -25,36 +25,20 @@ Una de las grandes ventajas del soporte técnico a distancia es que el mantenimi
 En los mantenimientos preventivos realizados con frecuencia mensual, se pueden detectar fallas antes de que ocurran y solucionarlas de forma anticipada.
 
 
-### Projects -
-The Projects page will include all the projects from the **`projects.yml`** file which is present in the _data folder.<br>
-Projects will be showcased in a card-list format where each card will contain
-* An image related to the project
-* A Project Title
-* A Project Description of about 80 words
+Ventajas del soporte técnico a distancia 
 
-### Footer -
-The footer includes
-* A small about the author widget which show the same `Author Image` as mentioned in the about section of the Home page which includes `Name of the Author`, `Around 75 words about the author`.
-* A more link widget which includes a link to any extra page that you've created and a `Subscribe via RSS` link.
-* A Recent posts widget which will include latest 3 posts.
+La atención es personalizada, oportuna y puede adaptarse a las necesidades de los clientes, sin importar el lugar u horario.
+Los gastos en atención al cliente pueden reducirse hasta un 30 % con la implementación de chatbots que sean capaces de resolver las solicitudes o problemas más comunes de los clientes. 
+El tiempo de resolución de problemas o solicitudes es más rápido; basta con interactuar de forma remota para recibir apoyo. Así, el usuario o los técnicos ahorran mucho tiempo al no tener que trasladarse hasta las ubicaciones físicas correspondientes.
+El acceso a herramientas innovadoras garantiza el funcionamiento de los sistemas tecnológicos de forma rápida y oportuna
 
-#### Extra Features -
-WhatATheme comes pre installed with
-* **HTML Compressor** - It'll compress all the pages by removing any extra space or blank lines.
-* **Google Analytics** - A web analytics service offered by Google that tracks and reports website traffic. For more information [click here](https://analytics.google.com){:target="blank"}.
-* **Disqus** - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus [click here](https://help.disqus.com/en/articles/1717053-what-is-disqus){:target="blank"}
+1.Soporte de chat en vivo.
 
-	##### For more information about WhatATheme [click here](https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md){:target="blank"}.
+Hoy en día 27 % de los consumidores están interesados en herramientas de soporte de inteligencia artificial, como los chatbots en vivo. Estos sistemas permiten un acceso instantáneo a profesionales capacitados. Gracias a este tipo de soporte técnico a distancia las empresas pueden atender las consultas de los clientes de manera más rápida y precisa en tiempo real
 
----
+2.Soporte de servicio telefónico
 
-# Installation
-### Step 1 - Setting up WhatATheme
-> * Fork the [repository](https://github.com/thedevslot/WhatATheme/tree/master){:target="blankl"}
-> * Go to repository settings and set Github Pages source as master.
-> * Your new site should be ready at [https://username.github.io/WhatATheme/](#){:target="blank"}
+El soporte telefónico es otro tipo de servicio a distancia que puede satisfacer las necesidades de los usuarios; siempre y cuando la atención sea rápida y de calidad. En cuanto a la expectativa de resolución vía telefónica, el 59 % de los usuarios esperan soluciones en 30 minutos, pero el 67 % de ellos pueden colgar si se sienten muy frustrados o no pueden comunicarse oportunamente. 
 
-### Step 2 - Making changes via **_config.yml**
-> * Open _config.yml file
-> * Fill the available details accordingly
-> * Commit the changes
+El soporte técnico a distancia telefónico consiste en llamar al técnico correspondiente para que este indique cómo puede solucionarse el problema. Los clientes, por su parte, deben seguir las instrucciones que les brinden.
+
