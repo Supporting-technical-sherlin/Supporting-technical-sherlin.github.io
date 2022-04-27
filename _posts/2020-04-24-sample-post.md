@@ -2,8 +2,7 @@
 title:MANTENIMIENTO DE SOFWARE
 layout: Mantenimiento De Sofware
 
-post-image: ![image](https://user-images.githubusercontent.com/102195539/165412684-4cab174e-5af2-498e-b1f2-9d21daff4410.png)
-
+post-image:https://www.google.com/url?sa=i&url=https%3A%2F%2Fdconfianza.pe%2Fblog%2F2020%2F09%2Fconoce-los-tipos-de-software-de-mantenimiento%2F&psig=AOvVaw1SsF8b1TEM7Nix-mdOjVgC&ust=1651104379851000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjs8KT5svcCFQAAAAAdAAAAABAI
 
 El mantenimiento del sofware es el proceso de cambiar, modificar y actualizar el software para satisfacer las necesidades del cliente. El mantenimiento del software se realiza después del lanzamiento del producto por varias razones, que incluyen la mejora del software en general, la corrección de problemas o errores, mejorar el rendimiento y más
 
