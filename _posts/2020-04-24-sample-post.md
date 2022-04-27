@@ -1,72 +1,50 @@
 ---
-title: Sample Post
+title:MANTENIMIENTO DE SOFWARE
 layout: post
 post-image: "https://dconfianza.pe/blog/wp-content/uploads/2020/09/Software-de-Mantenimiento-CMMS-1024x536.jpg"
-"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
-tags:
-- sample
-- post
-- test
----
 
-This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
-For more information about writing markdown you can checkout the following markdown cheatsheets:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+El mantenimiento del sofware es el proceso de cambiar, modificar y actualizar el software para satisfacer las necesidades del cliente. El mantenimiento del software se realiza después del lanzamiento del producto por varias razones, que incluyen la mejora del software en general, la corrección de problemas o errores, mejorar el rendimiento y más
 
----
+¿Por qué es importante el mantenimiento del software?
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+Crear un nuevo software y lanzarlo al mundo es un paso emocionante para cualquier empresa. Se necesita mucho para crear su software y su lanzamiento, incluidos la construcción y la codificación reales, los modelos de licencia, el marketing y más. Sin embargo, cualquier gran software debe poder adaptarse a los tiempos. 
 
-**Bold Text in the post will look like:**<br>
-**This text is Bold**
+Esto significa monitorear y mantener adecuadamente. Dado que la tecnología está cambiando a la velocidad de la luz, el software debe mantenerse al día con los cambios y las demandas del mercado
 
-**Italic Text in the post will look like:**<br>
-*This text is Italic*
+¿Cuáles son los 4 tipos de mantenimiento de software? 
 
-> Quotes on your post will look like this
+Mantenimiento correctivo de software
+Mantenimiento preventivo de software
+Mantenimiento perfectivo de software
+Mantenimiento adaptable de software
 
-`Codes on your post will look like this`
+1.Mantenimiento correctivo de software
 
-**Link in the post will look like:**<br>
-[This is a link](#)
+El mantenimiento correctivo del software es la forma clásica y típica de mantenimiento (para el software y cualquier otra cosa). El mantenimiento de software correctivo es necesario cuando algo sale mal en una pieza de software, incluidos fallos y errores. Estos pueden tener un impacto generalizado en la funcionalidad del software en general y, por lo tanto, deben abordarse lo antes posible
 
-**Bullet list in the post will look like:**
-* Item 1
-* Item 2
-* Item 3
-* Item 4
-* Item 5
+2.Mantenimiento preventivo de software
 
-**Number list in the post will look like:**
-1. Item 1
-2. Item 2
-3. Item 3
-4. Item 4
-5. Item 5
+El mantenimiento preventivo de software está mirando hacia el futuro para que su software pueda seguir funcionando como se desee durante el mayor tiempo posible esto incluye realizar los cambios necesarios, actualizaciones, adaptaciones y más. El mantenimiento preventivo del software puede abordar pequeños problemas que en un momento dado pueden carecer de importancia, pero pueden convertirse en problemas mayores en el futuro
+
+3.Mantenimiento perfectivo de software
+
+Al igual que con cualquier producto en el mercado, una vez que el software se lanza al público, surgen nuevos problemas e ideas. Los usuarios pueden ver la necesidad de nuevas características o requisitos que les gustaría ver en el software para convertirlo en la mejor herramienta disponible para sus necesidades. Es entonces cuando entra en juego el mantenimiento perfectivo del software. 
+
+4.Mantenimiento adaptativo de software
+
+El Mantenimiento adaptativo de software tiene que ver con las tecnologías cambiantes, así como con las políticas y reglas relacionadas con su software. Las cuales incluyen cambios en el sistema operativo, almacenamiento en la nube, hardware, etc. Cuando se realizan estos cambios, su software debe adaptarse para cumplir adecuadamente los nuevos requisitos y continuar funcionando bien. 
+
+Estrategias para el mantenimiento del software
+
+Todas las empresas de software deben tener una estrategia específica para abordar el mantenimiento del software de manera efectiva y completa la documentación es una estrategia importante en el desarrollo de software si la documentación del software no está actualizada, escalar puede resultar aparentemente imposible La documentación debe incluir información sobre cómo funciona el código, soluciones a problemas potenciales, etc. 
+
+El control de calidad también es una parte importante de un plan de mantenimiento de software. Si bien el control de calidad es importante antes del lanzamiento inicial del software, también se puede integrar mucho antes en el proceso (ya en la etapa de planificación) para asegurarse de que el software se desarrolle correctamente y para brindar información sobre cómo realizar cambios 
+
 
 **Images in the post will look like:**<br>
 ![Test Image](/WhatATheme/assets/images/1280x720%20Placeholder.png)
 
-**Normal text in the post will look like**<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.
-
-Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.
-
-Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.
-
-Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.
 
 **Giphy Gifs will look like:**<br>
 <iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
 
-**YouTUbe Videos will look like:**<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
