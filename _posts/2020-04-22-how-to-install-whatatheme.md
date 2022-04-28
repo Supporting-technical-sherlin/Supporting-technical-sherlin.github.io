@@ -42,3 +42,10 @@ El soporte telefónico es otro tipo de servicio a distancia que puede satisfacer
 
 El soporte técnico a distancia telefónico consiste en llamar al técnico correspondiente para que este indique cómo puede solucionarse el problema. Los clientes, por su parte, deben seguir las instrucciones que les brinden.
 
+3.Soporte remoto de PC 
+
+Las llamadas de soporte por problemas en los equipos físicos o dispositivos electrónicos son unas de las consultas más regulares entre los consumidores. Brindar este tipo de soporte técnico permite hacer una revisión remota de la PC, con la finalidad de resolver el problema y hacer que funcione nuevamente. Este soporte se puede complementar con el chatbot en vivo, llamadas telefónicas o acceso al equipo de forma remota con alguna herramienta especializada
+
+4.Diagnóstico de software 
+
+Al igual que un hardware, la instalación o uso de un software puede provocar dolores de cabeza a los clientes. Afortunadamente, existen muchas alternativas para solucionar estos fallos de forma remota: a través de chat en vivo, llamada telefónica o mediante acceso remoto utilizando un programa específico. En este caso, el técnico puede resolver el problema relacionado con el software, además de instalar o administrar herramientas recomendable
