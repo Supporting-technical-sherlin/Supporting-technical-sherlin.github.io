@@ -1,6 +1,5 @@
 
 title:MANTENIMIENTO DE SOFWARE
-layout: Mantenimiento De Sofware
 
 post-image:  “https://cdn.euroinnova.edu.es/euroinnova_es/img_blog/l/Mantenimiento_Software_Distancia.jpg”
 
