@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title:  Supporting Technical Sherlin
 # Description of the Site
-description: Podemos ayudarte a reformular y repensar tu cartera de aplicaciones, y a lograr que tus aplicaciones actuales migren a la nube sin que eso requiera hacer grandes cambios en el código o en los procesos de desarrollo existentes.
+description: Podemos ayudarte a reformular y repensar tu cartera de aplicaciones.
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
@@ -44,8 +44,7 @@ author-name: TheDevsLot
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-about: Nos pueden contactar por este medio y a lograr que tus aplicaciones actuales migren a la nube sin que eso requiera hacer grandes cambios en el código o en los procesos de desarrollo existentes
 author-url: https://github.com/thedevslot
 
 # SASS
