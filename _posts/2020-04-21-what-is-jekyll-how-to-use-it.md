@@ -1,48 +1,42 @@
 ---
-title: What is Jekyll? How to use it?
+title:  ¿Qué es el sistema operativo?
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/What%20is%20Jekyll%20and%20How%20to%20use%20it.png?token=AHMQUELVG36IDSA4SZEZ5P26Z64IW"
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
-tags:
-- jekyll
-- informative
-- technology
----
+description
 
-Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories and if you don't know what GitHub Pages are you can visit on click [here](https://help.github.com/en/github/working-with-github-pages/about-github-pages){:target="blank"} or [here](https://pages.github.com/){:target="blank"}
-###### Source : [`Jekyll Docs`](https://jekyllrb.com/docs/)
+El sistema operativo es el software que coordina y dirige todos los servicios y aplicaciones que utiliza el usuario en una computadora, por eso es el más importante y fundamental. Se trata de programas que permiten y regulan los aspectos más básicos del sistema. Los sistemas operativos más utilizados son Windows, Linux, OS/2 y DOS los sistemas operativos, también llamados núcleos o kernels, suelen ejecutarse de manera privilegiada respecto al resto del software, sin permitir que un programa cualquiera realice cambios de importancia sobre él que puedan comprometer su funcionamiento el sistema operativo es el protocolo básico de operatividad del computador, que coordina todas sus demás funciones de comunicaciones, de procesamiento, de interfaz con el usuario
 
-> ### To know more and get started with Jekyll you can click [here](https://jekyllrb.com/){:targe="_blank"}
-	
-# Installation
-**Jekyll is a Ruby Gem that can be installed on most systems.**
-### Requirements
-* [Ruby](https://www.ruby-lang.org/en/downloads/){:target="_blank"} version 2.5.0 or above, including all development headers (ruby version can be checked by running ruby -v)
-* [Ruby Gems](https://rubygems.org/pages/download){:target="_blank"} (which you can check by running gem -v)
-* [GCC](https://gcc.gnu.org/install/){:target="_blank"} and [Make](https://www.gnu.org/software/make/){:target="_blank"}
+¿Para qué sirve un sistema operativo?
 
-### After Installing the Requirements you can follow these guides:
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+Los sistemas operativos permiten que otros programas puedan utilizarlos de apoyo para poder funcionar. Por eso, a partir del sistema utilizado pueden ser instalados ciertos programas y otros no son parte esencial del funcionamiento de los sistemas informáticos y la pieza de software central en la cadena de procesos, ya que establecen las condiciones mínimas para que todo funcione: la administración de los recursos, el método de comunicación con el usuario y con otros sistemas, las aplicaciones adicionales
 
-### Creating a new Jekyll site
-**We can create a new Jekyll site just by a simple command:**<br>
-> # `jekyll new my-site`
+Componentes de un sistema operativo
+El sistema operativo posee tres componentes esenciales o paquetes de software que permiten la interacción con el hardware sistema de archivos. Es el registro de archivos donde adquieren una estructura arbórea interpretación de comandos. Se logra con aquellos componentes que permiten la interpretación de los comandos, que tienen como función comunicar las órdenes dadas por el usuario en un lenguaje que el hardware pueda interpretar (sin que aquel que dé las órdenes conozca dicho lenguaje).
+Núcleo. Permite el funcionamiento en cuestiones básicas como la comunicación, entrada y salida de datos, gestión de procesos y la memoria, entre otros
 
-Jekyll will create a new directory named as `my-site` which is customizable (i.e., you can change the name from `my-site` to anything you want for example `jekyll new brutus`).
+Tipos de sistema operativo
 
-### Changing into the Directory
-**We have to go inside the directory:**<br>
-> # `cd my-site`
+Los tipos de sistema operativo varían según el hardware y la función de cada dispositivo. Existen algunos para ordenadores y otros para dispositivos móviles.
 
-Again, `my-site` is just a random name which is customizable.
+Según el usuario pueden ser: multiusuario, sistema operativo que permite que varios usuarios ejecuten simultáneamente sus programas; o monousuario, sistema operativo que solamente permite ejecutar los programas de un usuario a la vez.
+Según la gestión de tareas pueden ser: monotarea, sistema operativo que solamente permite ejecutar un proceso a la vez; o multitarea, sistema operativo que puede ejecutar varios procesos al mismo tiempo.
+Según la gestión de recursos pueden ser: centralizado, sistema operativo que solo permite utilizar los recursos de un solo ordenador; o distribuido, sistema operativo que permite ejecutar los procesos de más de un ordenador al mismo tiempo.
 
-### Building the site and making it available on a local server
-> # `bundle exec jekyll serve`
+
+Ejemplos de sistemas operativos
+
+Microsoft Windows. De los más populares que existen, inicialmente se trató de un conjunto de distribuciones o entornos operativos gráficos, cuyo rol era brindar a otros sistemas operativos más antiguos como el MS-DOS una representación visual de soporte y de otras herramientas de software. Se publicó por primera vez en 1985 y desde entonces se ha actualizado a nuevas versiones.
+
+MS-DOS. Se trata del Sistema Operativo de Disco de MicroSoft (siglas en inglés de MicroSoft Disk Operating System), uno de los sistemas operativos más comunes para computadoras personales IBM durante la década de 1980 y mediados de los 90. Contaba con una serie de comandos internos y externos mostrados en una pantalla oscura de manera secuencial.
+
+UNIX. Este sistema operativo fue desarrollado en 1969 para ser portable, multitarea y multiusuario. Se trata realmente de una familia entera de SO similares, algunas de cuyas distribuciones se han ofrecido comercialmente y otros en formato libre, siempre a partir del núcleo llamado Linux.
+
+MacOS. Es el sistema operativo de los computadores Macintosh de Apple, también conocido como OSX o Mac OSX. Basado en Unix y desarrollado y vendido en computadores Apple desde 2002, se trata de la competencia más acérrima del popular Windows.
+
+Ubuntu. Este sistema operativo es libre y de código abierto, o sea, todo el mundo puede modificarlo sin violar derechos autorales. Toma su nombre de cierta filosofía surafricana ancestral, enfocada en la lealtad del hombre hacia su propia especie por encima de todo. Basado en GNU/Linux, Ubuntu se orienta hacia la facilidad de uso y la libertad total. La empresa británica que lo distribuye, Canonical, subsiste brindando servicio técnico.
+
+Android. Este sistema operativo basado en el núcleo Linux opera en teléfonos celulares y tablets y otros artefactos dotados de pantalla táctil. Fue desarrollado por Android Inc. y comprado posteriormente por Google, gracias a lo cual es tan popular que las ventas de sistemas informáticos Android superan a las de IOS (para teléfonos celulares Macintosh) y a las de Windows Phone (para teléfonos celulares MicroSoft)
+
 
 ### Browsing your Jekyll site
 > # Browse to [`http://localhost:4000/`](http://localhost:4000/){:target="_blank"}
