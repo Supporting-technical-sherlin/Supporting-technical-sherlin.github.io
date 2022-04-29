@@ -3,7 +3,12 @@ title:  ¿Qué es el sistema operativo?
 
 
 
+
+
 post-image: "https://www.srn-ti.cl/media/k2/items/cache/0b1ad7a7b79268a1f4558db78e092446_XL.jpg"
+
+
+
 
 
 
